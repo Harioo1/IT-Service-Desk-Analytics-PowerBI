@@ -64,7 +64,7 @@ The dashboard helps IT managers and stakeholders monitor operational efficiency 
 - Monthly Incident Trend
 - Ticket Distribution by Priority
 
-![Executive Overview](Images/Page1_Executive_Overview.png)
+
 
 ---
 
@@ -73,8 +73,7 @@ The dashboard helps IT managers and stakeholders monitor operational efficiency 
 - Incident Contribution by Configuration Item
 - Category & Priority Analysis
 - Monthly Trend by Top Categories
-
-![Incident Analysis](Images/Page2_Incident_Category.png)
+is](Images/Page2_Incident_Category.png)
 
 ---
 
@@ -85,7 +84,7 @@ The dashboard helps IT managers and stakeholders monitor operational efficiency 
 - Priority Ranking Trend
 - Ticket Breakdown Analysis
 
-![SLA Analysis](Images/Page3_SLA_Performance.png)
+
 
 ---
 
